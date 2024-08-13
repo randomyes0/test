@@ -1,5 +1,5 @@
 {
-	"Prefijo": ".",
+	"Prefijo": "/",
 	"MultiIdioma": [
 		true,
 		""
@@ -18,7 +18,7 @@
 	],
 	"OptConn": [
 		"Whatsapp",
-		"+ "
+		"+ 995386437"
 	],
 	"LocPref": "51",
 	"NombreDelBot": "QUANTUM-BOT",
